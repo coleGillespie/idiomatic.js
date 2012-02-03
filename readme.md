@@ -1,8 +1,8 @@
 # Ideen für eine konsistente, idiomatische JavaScript
 
-## dies ist ein lebendes Dokument. neue Ideen verbessern JavaScript sind immer willkommen. geben beiträge, mit github: fork, clone, branch, commit, push, pull request.
+## Dies ist ein lebendes Dokument. Neue Ideen verbessern JavaScript sind immer willkommen. Geben beiträge, mit github: fork, clone, branch, commit, push, pull request.
 
-## All code in any code-base should look like a single person typed it, no matter how many people contributed.
+## Syntax ist konsistent innerhalb Ihrer Code-Basis, das ist Regel Nummer eins. 
 
 ### The following list outlines the practices that I use in all code that I am the original author of; contributions to projects that I have created should follow these guidelines.
 
