@@ -1,4 +1,4 @@
-# Principles of Writing Consistent, Idiomatic JavaScript
+# Ideen für eine konsistente, idiomatische JavaScript
 
 ## This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
 
